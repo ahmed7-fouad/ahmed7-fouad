@@ -1,6 +1,6 @@
 # Hey!
 
-<a href="https://github.com/sponsors/MoOx">
+<a href="https://github.com/ahmed7-fouad">
   <img width="140" align="right" alt="Sponsoring button" src="https://github.com/moox/.github/raw/main/FUNDING.svg">
 </a>
 
