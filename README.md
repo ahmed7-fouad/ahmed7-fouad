@@ -2,8 +2,9 @@
 
 
 
+
 <a href="https://github.com/ahmed7-fouad">
-  <img width="140" align="right" alt="https://github.com/user-attachments/assets/861c9284-7fb3-4c85-95ed-6ade933ae234">
+  <img width="140" align="right" alt="https://github.com/user-attachments/assets/e2dcd53a-1c7b-4b0c-bebb-eb49b1730fc3">
 </a>
 
 I am [Ahmed Fouad], a front-end web developer 
