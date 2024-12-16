@@ -7,7 +7,7 @@
 
 
 <a href="https://github.com/ahmed7-fouad">
-  <img width="140" align="right" alt="https://github.com/user-attachments/assets/aba962b6-4688-40b6-a48e-c15983e98a4e">
+  <img width="140" align="right" alt=">
 </a>
 
 I am [Ahmed Fouad], a front-end web developer 
