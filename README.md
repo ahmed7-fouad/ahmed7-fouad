@@ -10,7 +10,6 @@ I enjoy working with:
 
 - ⚛️ React (for Web) + Next.js
 - ⛑ JavaScript & TypeScript
-- 
 <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoOx&theme=synthwave&layout=compact" alt="MoOx's GitHub top languages"
 /><img height="125" src="https://github-readme-stats.vercel.app/api?username=moox&show_icons=true&theme=synthwave&count_private=true" alt="MoOx's GitHub stats"
 />
