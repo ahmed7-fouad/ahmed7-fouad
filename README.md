@@ -60,7 +60,7 @@
         <img  height="30" src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_.png" alt="c++" />
         <img  height="30" src="https://static-00.iconduck.com/assets.00/csharp-line-icon-225x256-9zgzl5i0.png" alt="c#" />
         <img  height="30" src="https://suseelkumar.com/img/python.png" alt="Python" />
-        <img  height="30" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3247777/java-bold-icon-md.png" alt="Java" />
+        <img  height="30" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" />
         <img  height="30" src="https://i.pinimg.com/originals/45/03/98/450398f4ff10d0253602b6a6d99419ed.png" alt="OOP" />
     </div>
 </div>
@@ -74,7 +74,6 @@
     <div>
         <img  height="50" src="https://static.vecteezy.com/system/resources/previews/022/597/198/original/3d-file-sql-icon-illustration-png.png" alt="SQL" />
         <img  height="50" src="https://www.gnugroup.org/images/nicepage-images/postgres-icon-24.png" alt="postgres_sql" />
-        <img  height="45" src="https://img.informer.com/icons/png/128/7814/7814529.png" alt="edraw_max" />
     </div>
 </div>
 <br>
@@ -83,6 +82,7 @@
 <div >
     <h1 align="left"> 
         <img height="40" src="https://cdn-icons-png.flaticon.com/512/6303/6303588.png" alt="Operating_Systems" /> Operating Systems:
+        <svg xmlns="http://www.w3.org/2000/svg" aria-label="macOS" role="img" viewBox="0 0 512 512" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><rect width="512" height="512" rx="15%" fill="#ffffff"></rect><path d="M282 170v-4c-52 0-5 34 0 4zm24-18c7-21 43-23 47 3h-10c-3-15-28-16-28 11 0 15 23 24 28 6h10c-6 33-59 21-47-20zm-146-16h10v9c5-12 27-13 31 1 7-15 35-14 35 7v37h-11v-34c0-15-22-15-22 1v33h-11v-35c-2.447-9.36-14.915-11.23-20-3l-2 5v33h-10zm23 259c-47 0-76-33-76-86s29-85 76-85 77 33 77 85-29 86-77 86zm88-205c-29 7-33-30-3-31l14-1v-4c1-12-19-13-22-2h-10a14 14 0 012-7c8-14 41-14 41 8v37h-10v-9a18 18 0 01-12 9zm68 205c-36-2-61-19-63-49h24c23 72 146-5 25-30-19-4-33-13-39-24-38-74 109-96 113-20h-23c-7-49-98-22-65 12 14 14 43 13 64 22 50 23 26 91-36 89zM183 245c-32 0-52 25-52 64s20 64 52 64 53-24 53-64-20-64-53-64z"></path></g></svg>
     </h1>
     <div>
         <img width="50" height="50" src="https://www.pngall.com/wp-content/uploads/10/Windows-11-PNG-File.png" alt="Windows" />
@@ -107,13 +107,12 @@
 <br>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
 <!--contact me-->
-<div >
+<div>
     <h1 align="left"> 
        🌏 contact me:
     </h1>
     <h2 align="left" style='color:white'>
            <a href="https://www.linkedin.com/in/ahmed-fouad-5227b0218/"  style="text-decoration: none; target="_blank">
-                <p style='color:white'>Linked in</p>
             <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="105" height="30">
         </a>
  </h2>
