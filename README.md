@@ -14,7 +14,7 @@
         🚀 About Me:
     </h1>
     <h2 align="left">
-        I'm Ahmed Fouad, I'm a Software Engineer, and I'm a Front-end developer. 
+        I'm Ahmed Fouad, I'm a Software Engineer and Front-end developer. 
     </h2>
 </div>
 <br>
