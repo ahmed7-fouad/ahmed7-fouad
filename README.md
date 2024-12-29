@@ -113,7 +113,7 @@
     </h1>
     <h2 align="left" style='color:white'>
            <a href="https://www.linkedin.com/in/ahmed-fouad-5227b0218/"  style="text-decoration: none; target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="105" height="30">
+            <img src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg#/media/File:LinkedIn_icon.svg" alt="LinkedIn" width="105" height="30">
         </a>
  </h2>
     
