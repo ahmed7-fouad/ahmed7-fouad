@@ -111,8 +111,8 @@
     <h1 align="left"> 
        🌏 contact me:
     </h1>
-    <h2 align="left">
-           <a href="https://www.linkedin.com/in/ahmed-fouad-5227b0218/" target="_blank" style="text-decoration: none; color:white">
+    <h2 align="left" style='color:white'>
+           <a href="https://www.linkedin.com/in/ahmed-fouad-5227b0218/"  style="text-decoration: none; target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="105" height="30">
         </a>
  </h2>
