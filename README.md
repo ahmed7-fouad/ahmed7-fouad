@@ -29,6 +29,7 @@
         <img  height="30" src="https://icones.pro/wp-content/uploads/2022/08/icone-css-bleue.png" alt="css" />
         <img  height="30" src="https://images.ctfassets.net/ljpkryr3szrz/093DYK6vIBAxyn6GH6z3v/246fa36fa501fc309b1da8c5e3f31ecc/jsicon.png" alt="js" />
         <img  height="30" src="https://pluspng.com/img-png/bootstrap-png-bootstrap-512.png" alt="bootstrap" />
+        <img  height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" alt="React Js" />
         <img  height="30" src="https://cdn-icons-png.flaticon.com/128/5256/5256916.png" alt="Saas" />
         <img  height="30" src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Emblem.png" alt="Photoshop" />
         <img  height="30" src="https://1.bp.blogspot.com/-sbTp-uUT_qY/XTcVQesQxWI/AAAAAAAABjA/_CNxAryl0MASwZKmS3RJaPORVwy-KruqgCLcBGAs/s1600/1540023537_adobe-                                               illustrator.png" alt="illustrator"/>
