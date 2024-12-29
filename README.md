@@ -113,7 +113,7 @@
     </h1>
     <h2 align="left" style='color:white'>
            <a href="https://www.linkedin.com/in/ahmed-fouad-5227b0218/"  style="text-decoration: none; target="_blank">
-                <p>Linked in</p>
+                <p style='color:white'>Linked in</p>
             <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="105" height="30">
         </a>
  </h2>
