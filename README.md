@@ -112,18 +112,11 @@
        🌏 contact me:
     </h1>
     <h2 align="left">
-           <a href="[https://www.linkedin.com/in/eng-mohamed-mostafa-el-awakey-a9015024b/](https://www.linkedin.com/in/ahmed-fouad-5227b0218/)" target="_blank" style="text-decoration: none;">
+           <a href="https://www.linkedin.com/in/ahmed-fouad-5227b0218/" target="_blank" style="text-decoration: none;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="105" height="30">
         </a>
-        
-        <a href="https://www.facebook.com/profile.php?id=100025273931597&mibextid=JRoKGi" target="_blank" style="text-decoration: none;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="30" height="30">
-        </a>
-        <a href="https://www.instagram.com/mhmdlwqy24.06/profilecard/?igsh=cjF1c3dxeHZ1YzFz" target="_blank" style="text-decoration: none;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30">
-        </a>
-     
-    </h2>
+   
+ </h2>
 </div>
 <br>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
