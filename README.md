@@ -28,6 +28,7 @@
         <img  height="30" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700034-icon-76-document-file-html-512.png" alt="html" />
         <img  height="30" src="https://icones.pro/wp-content/uploads/2022/08/icone-css-bleue.png" alt="css" />
         <img  height="30" src="https://images.ctfassets.net/ljpkryr3szrz/093DYK6vIBAxyn6GH6z3v/246fa36fa501fc309b1da8c5e3f31ecc/jsicon.png" alt="js" />
+        <img height="30" src="https://cdn.sanity.io/images/599r6htc/regionalized/5094051dac77593d0f0978bdcbabaf79e5bb855c-1080x1080.png?w=540&q=75&fit=max&auto=format&dpr=2" alt='Figma'/>
         <img  height="30" src="https://pluspng.com/img-png/bootstrap-png-bootstrap-512.png" alt="bootstrap" />
         <img  height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" alt="React Js" />
         <img  height="30" src="https://cdn-icons-png.flaticon.com/128/5256/5256916.png" alt="Saas" />
