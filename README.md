@@ -45,7 +45,7 @@
        <img  height="40" src="https://cdn-icons-png.flaticon.com/512/12887/12887487.png" alt="currently_learn" /> currently learn:
     </h1>
     <div>
-        <img  height="50" src="https://cdn.jim-nielsen.com/macos/1024/figma-2021-05-05.png" alt="figma" />
+        <img  height="50" src="https://www.luisllamas.es/img/tailwind-icon.svg" alt="Tailwind" />
     </div>
 </div>
 <br>
@@ -82,7 +82,7 @@
 <div >
     <h1 align="left"> 
         <img height="40" src="https://cdn-icons-png.flaticon.com/512/6303/6303588.png" alt="Operating_Systems" /> Operating Systems:
-        <svg xmlns="http://www.w3.org/2000/svg" aria-label="macOS" role="img" viewBox="0 0 512 512" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><rect width="512" height="512" rx="15%" fill="#ffffff"></rect><path d="M282 170v-4c-52 0-5 34 0 4zm24-18c7-21 43-23 47 3h-10c-3-15-28-16-28 11 0 15 23 24 28 6h10c-6 33-59 21-47-20zm-146-16h10v9c5-12 27-13 31 1 7-15 35-14 35 7v37h-11v-34c0-15-22-15-22 1v33h-11v-35c-2.447-9.36-14.915-11.23-20-3l-2 5v33h-10zm23 259c-47 0-76-33-76-86s29-85 76-85 77 33 77 85-29 86-77 86zm88-205c-29 7-33-30-3-31l14-1v-4c1-12-19-13-22-2h-10a14 14 0 012-7c8-14 41-14 41 8v37h-10v-9a18 18 0 01-12 9zm68 205c-36-2-61-19-63-49h24c23 72 146-5 25-30-19-4-33-13-39-24-38-74 109-96 113-20h-23c-7-49-98-22-65 12 14 14 43 13 64 22 50 23 26 91-36 89zM183 245c-32 0-52 25-52 64s20 64 52 64 53-24 53-64-20-64-53-64z"></path></g></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" aria-label="macOS" role="img" viewBox="0 0 512 512" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><rect width="512" height="512" rx="15%" fill="#ffffff"></rect><path d="M282 170v-4c-52 0-5 34 0 4zm24-18c7-21 43-23 47 3h-10c-3-15-28-16-28 11 0 15 23 24 28 6h10c-6 33-59 21-47-20zm-146-16h10v9c5-12 27-13 31 1 7-15 35-14 35 7v37h-11v-34c0-15-22-15-22 1v33h-11v-35c-2.447-9.36-14.915-11.23-20-3l-2 5v33h-10zm23 259c-47 0-76-33-76-86s29-85 76-85 77 33 77 85-29 86-77 86zm88-205c-29 7-33-30-3-31l14-1v-4c1-12-19-13-22-2h-10a14 14 0 012-7c8-14 41-14 41 8v37h-10v-9a18 18 0 01-12 9zm68 205c-36-2-61-19-63-49h24c23 72 146-5 25-30-19-4-33-13-39-24-38-74 109-96 113-20h-23c-7-49-98-22-65 12 14 14 43 13 64 22 50 23 26 91-36 89zM183 245c-32 0-52 25-52 64s20 64 52 64 53-24 53-64-20-64-53-64z"></path></g></svg>
     </h1>
     <div>
         <img width="50" height="50" src="https://www.pngall.com/wp-content/uploads/10/Windows-11-PNG-File.png" alt="Windows" />
@@ -99,9 +99,7 @@
     </h1>
     <div>
         <img  height="30" src="https://i.pinimg.com/originals/00/f4/05/00f40564d281eee8dbb931024b8e6975.png" alt="vs_code" />
-        <img  height="30" src="https://logonoid.com/images/intellij-idea-logo.png" alt="intellij" />
         <img  height="30" src="https://static-00.iconduck.com/assets.00/pycharm-icon-512x506-r4mnkw3t.png" alt="pycharm" />
-        <img  height="30" src="https://cdn3.emoji.gg/emojis/7377_code_blocks.png" alt="code_blocks" />
     </div>
 </div>
 <br>
