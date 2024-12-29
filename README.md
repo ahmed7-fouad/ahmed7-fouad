@@ -1,7 +1,8 @@
 <!--svg words-->
 <div align="center">
     <h1> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=35&duration=3000&color=mix&center=true&vCenter=true&width=435&lines=I'm+Ahmed+Fouad;a+Front-end+Developer;Welcome+to+my+profile;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=35&duration=3000&color=mix&center=true&vCenter=true&width=435&lines=I'm+Ahmed+Fouad;
+            i+am+a+Front-end+Developer;Welcome+to+my+profile;" alt="Typing SVG"/>
     </h1>
 </div>
 
